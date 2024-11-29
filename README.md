@@ -33,6 +33,6 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/marcelo-pereira-7b12b1113/" target="_blank">
-    <img src="https://raw.githubusercontent.com/marcelojunior1989/marcelojunior1989/refs/heads/main/snake.svg" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/marcelojunior1989/marcelojunior1989/refs/heads/main/snake.svg" height="70" alt="linkedin logo"  />
   </a>
 </div>
